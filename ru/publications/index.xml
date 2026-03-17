@@ -5,12 +5,95 @@
     <link>https://ddovletov.github.io/ru/publications/</link>
       <atom:link href="https://ddovletov.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ddovletov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://ddovletov.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://ddovletov.github.io/ru/publications/02/</link>
+      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-markdown&#34;&gt;📝 Что такое Markdown&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — это легковесный язык разметки, который используется для форматирования текста с помощью простого и понятного синтаксиса. Его главная цель — сделать текст читаемым как в исходном виде, так и после преобразования в HTML.&lt;/p&gt;
+&lt;p&gt;Markdown широко применяется в IT-сфере, образовании и при создании документации благодаря своей простоте и универсальности.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-возможности&#34;&gt;⚙️ Основные возможности&lt;/h2&gt;
+&lt;p&gt;С помощью Markdown можно легко оформлять текст:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📌 &lt;strong&gt;Заголовки&lt;/strong&gt; с помощью символа &lt;code&gt;#&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;✏️ &lt;em&gt;Курсив&lt;/em&gt; и &lt;strong&gt;жирный текст&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;📋 Списки (нумерованные и маркированные)&lt;/li&gt;
+&lt;li&gt;🔗 Ссылки и изображения&lt;/li&gt;
+&lt;li&gt;💻 Блоки кода и встроенный код&lt;/li&gt;
+&lt;li&gt;📊 Таблицы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пример:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Подзаголовок
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gs&#34;&gt;**Жирный текст**&lt;/span&gt;, &lt;span class=&#34;ge&#34;&gt;*курсив*&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Пункт 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Пункт 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[&lt;span class=&#34;nt&#34;&gt;Ссылка&lt;/span&gt;](&lt;span class=&#34;na&#34;&gt;https://example.com&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;-где-используется-markdown&#34;&gt;💻 Где используется Markdown&lt;/h2&gt;
+&lt;p&gt;Markdown активно используется в разных областях:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🌐 В системах контроля версий, таких как GitHub&lt;/li&gt;
+&lt;li&gt;📚 При написании документации&lt;/li&gt;
+&lt;li&gt;🧑‍💻 В блогах и статических сайтах&lt;/li&gt;
+&lt;li&gt;📝 Для ведения заметок и конспектов&lt;/li&gt;
+&lt;li&gt;🎓 В учебных проектах&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-преимущества-markdown&#34;&gt;🚀 Преимущества Markdown&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✔ Простота изучения&lt;/li&gt;
+&lt;li&gt;✔ Читаемость текста без форматирования&lt;/li&gt;
+&lt;li&gt;✔ Быстрое оформление документов&lt;/li&gt;
+&lt;li&gt;✔ Поддержка на многих платформах&lt;/li&gt;
+&lt;li&gt;✔ Легкая конвертация в HTML&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-вывод&#34;&gt;📌 Вывод&lt;/h2&gt;
+&lt;p&gt;Markdown — это удобный инструмент, который помогает быстро и эффективно оформлять текстовую информацию. Он особенно полезен студентам и IT-специалистам, так как позволяет сосредоточиться на содержании, а не на сложном форматировании.&lt;/p&gt;
+&lt;p&gt;Освоение Markdown — это небольшой, но важный шаг в развитии навыков работы с документацией и современными цифровыми инструментами.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Знакомство с GitHub</title>
+      <link>https://ddovletov.github.io/ru/publications/01/</link>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/publications/01/</guid>
+      <description>&lt;h2 id=&#34;-что-такое-github&#34;&gt;💻 Что такое GitHub&lt;/h2&gt;
+&lt;p&gt;На этой неделе я подробнее познакомился с платформой &lt;strong&gt;GitHub&lt;/strong&gt;. Это один из самых популярных сервисов для хранения и совместной работы над программным кодом. GitHub используется разработчиками по всему миру и позволяет удобно управлять проектами, отслеживать изменения и работать в команде.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-возможности-github&#34;&gt;⚙️ Основные возможности GitHub&lt;/h2&gt;
+&lt;p&gt;GitHub основан на системе контроля версий &lt;strong&gt;Git&lt;/strong&gt;, которая помогает сохранять историю изменений в проекте. Это особенно важно при работе с кодом.&lt;/p&gt;
+&lt;p&gt;Основные функции GitHub:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📂 &lt;strong&gt;Хранение проектов&lt;/strong&gt; — можно размещать свои проекты и файлы в репозиториях.&lt;/li&gt;
+&lt;li&gt;🔄 &lt;strong&gt;Контроль версий&lt;/strong&gt; — система сохраняет все изменения в коде и позволяет вернуться к предыдущим версиям.&lt;/li&gt;
+&lt;li&gt;👥 &lt;strong&gt;Совместная работа&lt;/strong&gt; — несколько разработчиков могут работать над одним проектом.&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Открытые проекты&lt;/strong&gt; — можно изучать код других разработчиков и учиться на реальных примерах.&lt;/li&gt;
+&lt;li&gt;🛠 &lt;strong&gt;Управление задачами&lt;/strong&gt; — GitHub позволяет создавать задачи и отслеживать ход работы над проектом.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-github-важен-для-студентов&#34;&gt;🚀 Почему GitHub важен для студентов&lt;/h2&gt;
+&lt;p&gt;Для студентов IT-направлений GitHub является очень полезным инструментом. Он помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;хранить учебные проекты&lt;/li&gt;
+&lt;li&gt;показывать свои навыки программирования&lt;/li&gt;
+&lt;li&gt;работать над групповыми проектами&lt;/li&gt;
+&lt;li&gt;изучать реальные проекты разработчиков&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Кроме того, профиль GitHub часто становится частью &lt;strong&gt;портфолио программиста&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;-мой-опыт-использования&#34;&gt;📚 Мой опыт использования&lt;/h2&gt;
+&lt;p&gt;Я начал использовать GitHub для хранения учебных заданий и небольших программ. Это помогает организовать код и видеть прогресс в обучении. Постепенно я планирую добавлять туда больше проектов и практиковаться в работе с системой Git.&lt;/p&gt;
+&lt;p&gt;GitHub — это не только инструмент для хранения кода, но и важная платформа для обучения, обмена опытом и развития в сфере информационных технологий.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

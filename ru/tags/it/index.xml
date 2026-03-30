@@ -5,12 +5,32 @@
     <link>https://ddovletov.github.io/ru/tags/it/</link>
       <atom:link href="https://ddovletov.github.io/ru/tags/it/index.xml" rel="self" type="application/rss+xml" />
     <description>IT</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 17 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ddovletov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>IT</title>
       <link>https://ddovletov.github.io/ru/tags/it/</link>
     </image>
+    
+    <item>
+      <title>Учебная неделя студента</title>
+      <link>https://ddovletov.github.io/ru/blog/03/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/blog/03/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя продолжила развивать навыки в области информационных технологий и их практического применения в бизнес-среде. Учебный процесс стал более структурированным, а задачи — более осмысленными.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; углубился в работу с функциями в Python, а также начал изучать обработку списков и базовые алгоритмы.&lt;/li&gt;
+&lt;li&gt;📊 В рамках курса по &lt;strong&gt;анализу данных&lt;/strong&gt; познакомился с визуализацией данных и инструментами, которые помогают интерпретировать результаты для бизнеса.&lt;/li&gt;
+&lt;li&gt;🗄 На дисциплине &lt;strong&gt;базы данных&lt;/strong&gt; практиковался в написании SQL-запросов: выборка данных, фильтрация и сортировка.&lt;/li&gt;
+&lt;li&gt;🌐 По предмету &lt;strong&gt;информационные системы&lt;/strong&gt; рассматривали реальные кейсы внедрения IT-решений в компаниях и их влияние на эффективность процессов.&lt;/li&gt;
+&lt;li&gt;📚 Активно выполнял домашние задания и уделял внимание повторению материала, чтобы закрепить новые знания.&lt;/li&gt;
+&lt;li&gt;⚽ Старался поддерживать баланс между учебой и отдыхом, что помогло сохранить продуктивность в течение всей недели.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Постепенно становится проще видеть взаимосвязь между изучаемыми дисциплинами и их применением в реальных бизнес-задачах.&lt;/p&gt;
+&lt;p&gt;Такая динамика обучения помогает лучше ориентироваться в профессии и уверенно двигаться вперед.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Язык разметки Markdown</title>

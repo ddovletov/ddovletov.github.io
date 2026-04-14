@@ -5,12 +5,32 @@
     <link>https://ddovletov.github.io/ru/blog/</link>
       <atom:link href="https://ddovletov.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 21 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ddovletov.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Blog</title>
       <link>https://ddovletov.github.io/ru/blog/</link>
     </image>
+    
+    <item>
+      <title>Учебная неделя студента</title>
+      <link>https://ddovletov.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя закрепила ранее изученные темы и добавила новые практические навыки, особенно в области анализа данных и разработки программных решений. Учебный процесс стал более интенсивным, но при этом — более понятным и логичным.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; продолжил работу с Python: изучал функции более глубоко, а также начал применять списки и словари для решения практических задач.&lt;/li&gt;
+&lt;li&gt;📊 В курсе по &lt;strong&gt;анализу данных&lt;/strong&gt; отрабатывал навыки визуализации: строил графики и учился делать выводы на основе полученных данных.&lt;/li&gt;
+&lt;li&gt;🗄 По дисциплине &lt;strong&gt;базы данных&lt;/strong&gt; углубился в SQL — работал с более сложными запросами, включая объединение таблиц и агрегатные функции.&lt;/li&gt;
+&lt;li&gt;🌐 На занятиях по &lt;strong&gt;информационным системам&lt;/strong&gt; анализировали примеры цифровой трансформации бизнеса и обсуждали, как IT влияет на стратегическое развитие компаний.&lt;/li&gt;
+&lt;li&gt;📚 Продолжал активно выполнять домашние задания и систематизировать конспекты, что помогает лучше усваивать материал.&lt;/li&gt;
+&lt;li&gt;⚽ Уделял время отдыху и физической активности, что позволило сохранять концентрацию и продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;С каждой неделей становится легче понимать, как разные дисциплины дополняют друг друга и формируют целостное представление о будущей профессии.&lt;/p&gt;
+&lt;p&gt;Постепенное накопление знаний и практики делает обучение более осмысленным и уверенным.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Учебная неделя студента</title>

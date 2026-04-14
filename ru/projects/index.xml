@@ -13,27 +13,49 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://ddovletov.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ddovletov.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://ddovletov.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ddovletov.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://ddovletov.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ddovletov.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://ddovletov.github.io/ru/projects/hugo/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт стал важной частью профессионального имиджа современного исследователя. Он позволяет представить научные достижения, публикации, проекты и контактную информацию в удобной и доступной форме.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-hugo-academic&#34;&gt;⚙️ Что такое Hugo Academic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; (также известный как Wowchemy Academic) — это шаблон для генератора статических сайтов Hugo, ориентированный на ученых, преподавателей и студентов. Он позволяет быстро создать функциональный и эстетичный сайт без глубоких знаний веб-разработки.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-возможности&#34;&gt;🧩 Основные возможности&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Публикация научных статей и препринтов&lt;/li&gt;
+&lt;li&gt;📚 Оформление списка публикаций с фильтрацией&lt;/li&gt;
+&lt;li&gt;🎓 Представление образовательного опыта и достижений&lt;/li&gt;
+&lt;li&gt;🧪 Размещение информации о проектах и исследованиях&lt;/li&gt;
+&lt;li&gt;📬 Удобные формы для связи&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-преимущества-использования&#34;&gt;💻 Преимущества использования&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ Высокая скорость загрузки благодаря статической генерации&lt;/li&gt;
+&lt;li&gt;🔒 Безопасность — отсутствие серверной логики снижает риски&lt;/li&gt;
+&lt;li&gt;🎨 Гибкая настройка внешнего вида&lt;/li&gt;
+&lt;li&gt;📱 Адаптивный дизайн для разных устройств&lt;/li&gt;
+&lt;li&gt;🌍 Простая публикация через GitHub Pages или другие хостинги&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-этапы-создания-сайта&#34;&gt;🚀 Этапы создания сайта&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Установка генератора Hugo&lt;/li&gt;
+&lt;li&gt;Подключение шаблона Academic&lt;/li&gt;
+&lt;li&gt;Настройка конфигурации сайта&lt;/li&gt;
+&lt;li&gt;Добавление контента (публикации, проекты, биография)&lt;/li&gt;
+&lt;li&gt;Развертывание сайта в интернете&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;📈 Почему это важно&lt;/h2&gt;
+&lt;p&gt;Сайт научного работника помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;повысить видимость исследований&lt;/li&gt;
+&lt;li&gt;упростить доступ к публикациям&lt;/li&gt;
+&lt;li&gt;наладить профессиональные контакты&lt;/li&gt;
+&lt;li&gt;сформировать личный бренд в научной среде&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🧠 Итог&lt;/h2&gt;
+&lt;p&gt;Использование Hugo Academic значительно упрощает процесс создания персонального сайта. Такой ресурс становится не только визитной карточкой ученого, но и эффективным инструментом для продвижения научной деятельности в цифровом пространстве.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

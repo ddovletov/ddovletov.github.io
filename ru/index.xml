@@ -169,6 +169,129 @@
     </item>
     
     <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://ddovletov.github.io/ru/projects/hugo/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт стал важной частью профессионального имиджа современного исследователя. Он позволяет представить научные достижения, публикации, проекты и контактную информацию в удобной и доступной форме.&lt;/p&gt;
+&lt;h2 id=&#34;-что-такое-hugo-academic&#34;&gt;⚙️ Что такое Hugo Academic&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hugo Academic&lt;/strong&gt; (также известный как Wowchemy Academic) — это шаблон для генератора статических сайтов Hugo, ориентированный на ученых, преподавателей и студентов. Он позволяет быстро создать функциональный и эстетичный сайт без глубоких знаний веб-разработки.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-возможности&#34;&gt;🧩 Основные возможности&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Публикация научных статей и препринтов&lt;/li&gt;
+&lt;li&gt;📚 Оформление списка публикаций с фильтрацией&lt;/li&gt;
+&lt;li&gt;🎓 Представление образовательного опыта и достижений&lt;/li&gt;
+&lt;li&gt;🧪 Размещение информации о проектах и исследованиях&lt;/li&gt;
+&lt;li&gt;📬 Удобные формы для связи&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-преимущества-использования&#34;&gt;💻 Преимущества использования&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ Высокая скорость загрузки благодаря статической генерации&lt;/li&gt;
+&lt;li&gt;🔒 Безопасность — отсутствие серверной логики снижает риски&lt;/li&gt;
+&lt;li&gt;🎨 Гибкая настройка внешнего вида&lt;/li&gt;
+&lt;li&gt;📱 Адаптивный дизайн для разных устройств&lt;/li&gt;
+&lt;li&gt;🌍 Простая публикация через GitHub Pages или другие хостинги&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-этапы-создания-сайта&#34;&gt;🚀 Этапы создания сайта&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Установка генератора Hugo&lt;/li&gt;
+&lt;li&gt;Подключение шаблона Academic&lt;/li&gt;
+&lt;li&gt;Настройка конфигурации сайта&lt;/li&gt;
+&lt;li&gt;Добавление контента (публикации, проекты, биография)&lt;/li&gt;
+&lt;li&gt;Развертывание сайта в интернете&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;📈 Почему это важно&lt;/h2&gt;
+&lt;p&gt;Сайт научного работника помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;повысить видимость исследований&lt;/li&gt;
+&lt;li&gt;упростить доступ к публикациям&lt;/li&gt;
+&lt;li&gt;наладить профессиональные контакты&lt;/li&gt;
+&lt;li&gt;сформировать личный бренд в научной среде&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🧠 Итог&lt;/h2&gt;
+&lt;p&gt;Использование Hugo Academic значительно упрощает процесс создания персонального сайта. Такой ресурс становится не только визитной карточкой ученого, но и эффективным инструментом для продвижения научной деятельности в цифровом пространстве.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://ddovletov.github.io/ru/publications/04/</link>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Современные научные исследования невозможно представить без программирования. Языки научного программирования позволяют обрабатывать большие объемы данных, моделировать сложные процессы и визуализировать результаты.&lt;/p&gt;
+&lt;h2 id=&#34;-основные-языки&#34;&gt;💻 Основные языки&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и большому количеству библиотек (NumPy, Pandas, Matplotlib). Используется в анализе данных, машинном обучении и научных вычислениях.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — специализированный язык для статистики и анализа данных. Широко применяется в академической среде и исследовательских проектах.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — мощный инструмент для математического моделирования, инженерных расчетов и обработки сигналов.&lt;/li&gt;
+&lt;li&gt;🚀 &lt;strong&gt;Julia&lt;/strong&gt; — относительно новый язык, разработанный специально для высокопроизводительных вычислений и научных задач.&lt;/li&gt;
+&lt;li&gt;🧮 &lt;strong&gt;C/C++&lt;/strong&gt; — используются там, где важна максимальная производительность, например, в физическом моделировании и разработке вычислительных систем.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-где-применяются&#34;&gt;📈 Где применяются&lt;/h2&gt;
+&lt;p&gt;Языки научного программирования активно используются в различных областях:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📊 анализ данных и статистика&lt;/li&gt;
+&lt;li&gt;🤖 машинное обучение и искусственный интеллект&lt;/li&gt;
+&lt;li&gt;🌍 моделирование природных и экономических процессов&lt;/li&gt;
+&lt;li&gt;🧬 биоинформатика и медицина&lt;/li&gt;
+&lt;li&gt;⚡ инженерные расчеты и физика&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-почему-это-важно&#34;&gt;📚 Почему это важно&lt;/h2&gt;
+&lt;p&gt;Освоение таких языков помогает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;эффективно работать с данными&lt;/li&gt;
+&lt;li&gt;автоматизировать исследования&lt;/li&gt;
+&lt;li&gt;строить точные модели и прогнозы&lt;/li&gt;
+&lt;li&gt;повышать качество научных результатов&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;-итог&#34;&gt;🚀 Итог&lt;/h2&gt;
+&lt;p&gt;Языки научного программирования являются ключевым инструментом современного специалиста. Они объединяют математику, информатику и практическое применение знаний, открывая широкие возможности для исследований и профессионального роста.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчёта</title>
+      <link>https://ddovletov.github.io/ru/publications/03/</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-оформление-отчёта&#34;&gt;📝 Оформление отчёта&lt;/h2&gt;
+&lt;p&gt;На этой неделе особое внимание было уделено оформлению учебного отчёта. Работа над документом помогла систематизировать полученные знания и представить результаты в структурированном виде.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Определил &lt;strong&gt;структуру отчёта&lt;/strong&gt;: титульный лист, содержание, введение, основная часть, заключение и список источников.&lt;/li&gt;
+&lt;li&gt;🧩 Во &lt;strong&gt;введении&lt;/strong&gt; сформулировал цель работы, задачи и кратко описал рассматриваемую тему.&lt;/li&gt;
+&lt;li&gt;📊 В &lt;strong&gt;основной части&lt;/strong&gt; подробно изложил выполненные задания, добавил пояснения, примеры и результаты.&lt;/li&gt;
+&lt;li&gt;🧾 Особое внимание уделил &lt;strong&gt;оформлению&lt;/strong&gt;: шрифт, отступы, нумерация страниц и заголовков в соответствии с требованиями.&lt;/li&gt;
+&lt;li&gt;🔗 Оформил &lt;strong&gt;список литературы&lt;/strong&gt; и использованных источников по установленным стандартам.&lt;/li&gt;
+&lt;li&gt;📚 Провёл проверку текста на логичность, связность и отсутствие ошибок.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Работа над отчётом показала, что грамотное оформление играет важную роль в восприятии информации и общей оценке работы.&lt;/p&gt;
+&lt;p&gt;Постепенно формируется навык не только выполнять задания, но и правильно представлять их результаты, что является важной частью профессиональной подготовки.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Учебная неделя студента</title>
+      <link>https://ddovletov.github.io/ru/blog/04/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://ddovletov.github.io/ru/blog/04/</guid>
+      <description>&lt;h2 id=&#34;-итоги-недели&#34;&gt;📅 Итоги недели&lt;/h2&gt;
+&lt;p&gt;Эта неделя закрепила ранее изученные темы и добавила новые практические навыки, особенно в области анализа данных и разработки программных решений. Учебный процесс стал более интенсивным, но при этом — более понятным и логичным.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💻 На занятиях по &lt;strong&gt;программированию&lt;/strong&gt; продолжил работу с Python: изучал функции более глубоко, а также начал применять списки и словари для решения практических задач.&lt;/li&gt;
+&lt;li&gt;📊 В курсе по &lt;strong&gt;анализу данных&lt;/strong&gt; отрабатывал навыки визуализации: строил графики и учился делать выводы на основе полученных данных.&lt;/li&gt;
+&lt;li&gt;🗄 По дисциплине &lt;strong&gt;базы данных&lt;/strong&gt; углубился в SQL — работал с более сложными запросами, включая объединение таблиц и агрегатные функции.&lt;/li&gt;
+&lt;li&gt;🌐 На занятиях по &lt;strong&gt;информационным системам&lt;/strong&gt; анализировали примеры цифровой трансформации бизнеса и обсуждали, как IT влияет на стратегическое развитие компаний.&lt;/li&gt;
+&lt;li&gt;📚 Продолжал активно выполнять домашние задания и систематизировать конспекты, что помогает лучше усваивать материал.&lt;/li&gt;
+&lt;li&gt;⚽ Уделял время отдыху и физической активности, что позволило сохранять концентрацию и продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;С каждой неделей становится легче понимать, как разные дисциплины дополняют друг друга и формируют целостное представление о будущей профессии.&lt;/p&gt;
+&lt;p&gt;Постепенное накопление знаний и практики делает обучение более осмысленным и уверенным.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Учебная неделя студента</title>
       <link>https://ddovletov.github.io/ru/blog/03/</link>
       <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
@@ -754,30 +877,6 @@ Thank you for your attention! Feel free to reach out with questions or contribut
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>https://ddovletov.github.io/ru/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ddovletov.github.io/ru/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://ddovletov.github.io/ru/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ddovletov.github.io/ru/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://ddovletov.github.io/ru/projects/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ddovletov.github.io/ru/projects/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1954,46 +2053,6 @@ Navigate down for sub-topics!&lt;/p&gt;
 !&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Want to contribute?&lt;/strong&gt; Hugo Blox is open source! 
 .&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://ddovletov.github.io/ru/publications/03/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://ddovletov.github.io/ru/publications/03/</guid>
-      <description>&lt;p&gt;Вот пост в том же формате на тему оформления отчёта:&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;title: Оформление отчёта
-summary: Подход к оформлению учебного отчёта и ключевые требования к структуре и содержанию
-date: 2026-03-30&lt;/p&gt;
-&lt;p&gt;image:
-caption: &amp;lsquo;Image credit: 
-&amp;rsquo;&lt;/p&gt;
-&lt;p&gt;authors:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;admin&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;tags:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Academic&lt;/li&gt;
-&lt;li&gt;Student Life&lt;/li&gt;
-&lt;li&gt;Documentation&lt;/li&gt;
-&lt;li&gt;IT&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-оформление-отчёта&#34;&gt;📝 Оформление отчёта&lt;/h2&gt;
-&lt;p&gt;На этой неделе особое внимание было уделено оформлению учебного отчёта. Работа над документом помогла систематизировать полученные знания и представить результаты в структурированном виде.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;📄 Определил &lt;strong&gt;структуру отчёта&lt;/strong&gt;: титульный лист, содержание, введение, основная часть, заключение и список источников.&lt;/li&gt;
-&lt;li&gt;🧩 Во &lt;strong&gt;введении&lt;/strong&gt; сформулировал цель работы, задачи и кратко описал рассматриваемую тему.&lt;/li&gt;
-&lt;li&gt;📊 В &lt;strong&gt;основной части&lt;/strong&gt; подробно изложил выполненные задания, добавил пояснения, примеры и результаты.&lt;/li&gt;
-&lt;li&gt;🧾 Особое внимание уделил &lt;strong&gt;оформлению&lt;/strong&gt;: шрифт, отступы, нумерация страниц и заголовков в соответствии с требованиями.&lt;/li&gt;
-&lt;li&gt;🔗 Оформил &lt;strong&gt;список литературы&lt;/strong&gt; и использованных источников по установленным стандартам.&lt;/li&gt;
-&lt;li&gt;📚 Провёл проверку текста на логичность, связность и отсутствие ошибок.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Работа над отчётом показала, что грамотное оформление играет важную роль в восприятии информации и общей оценке работы.&lt;/p&gt;
-&lt;p&gt;Постепенно формируется навык не только выполнять задания, но и правильно представлять их результаты, что является важной частью профессиональной подготовки.&lt;/p&gt;
 </description>
     </item>
     
